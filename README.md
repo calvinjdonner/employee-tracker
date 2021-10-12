@@ -34,4 +34,3 @@ Calvin Donner
 
 ## Questions ❓
 Please email me with any questions at: calvinjdonner@gmail.com<br />
-<img src ='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
