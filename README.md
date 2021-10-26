@@ -15,7 +15,6 @@
 ## Description 🗺️
 An command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL
 
-🎥 A screencastify recording of the application in action can be found [here](./images/)
 
 ## Table of Contents 📑
 - [Description](#description)
@@ -24,7 +23,10 @@ An command-line application to manage a company's employee database, using Node.
 - [Questions](#questions)
 
 ## Installation 💽
-npm init & npm Inquirer
+npm init
+npm Inquirer
+npm express
+npm MySQL2
 
 ## Contributing 👨‍💻
 Calvin Donner
