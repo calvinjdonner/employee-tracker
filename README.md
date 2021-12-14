@@ -15,7 +15,8 @@
 ## Description 🗺️
 An command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL
 
-![](EmployeeTrackerGif.gif)
+![EmployeeTrackerGif](https://user-images.githubusercontent.com/86758061/146049614-25038533-78d4-4605-b5af-6555523c884a.gif)
+
 
 
 ## Table of Contents 📑
