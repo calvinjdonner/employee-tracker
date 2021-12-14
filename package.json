@@ -4,8 +4,8 @@
   "description": "<h1 align ='center'> Employee Tracker 🔍 </h1>",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/calvinjdonner/employee-tracker#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
     "mysql2": "^2.3.2"
   }
 }
